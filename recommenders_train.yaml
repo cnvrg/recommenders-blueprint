@@ -1,8 +1,8 @@
 ---
 title: Recommenders Train # Required on creation, replaces the "flow" parameter
 version: 1.0.0 # Required
-description: Train a custom model that can recommend users similar items according to their behaviour
-long_description: This blueprint allows you to train and deploy a custome model that analyze users behaviour and recommand similar items accordingly
+description: Train a custom model that recommends to users similar items according to their behaviors
+long_description: Train a custom recommender model and deploy an endpoint which assesses customer choices and recommends similar items to them based on their selections from among a set list of items.
 
 author: "cnvrg"
 author_email: "info@cnvrg.io"
